@@ -9,4 +9,4 @@ def my_each (collection)
   collection
 end
 
-my_each (numbers){|num| puts num.to_s}
+my_each (numbers){|num| num.to_s}
